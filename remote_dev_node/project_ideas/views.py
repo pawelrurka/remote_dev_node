@@ -12,5 +12,5 @@ class VoteViewSet(viewsets.ModelViewSet):
     queryset = Vote.objects.all()
     serializer_class = VoteSerializer
 
-print('test')
+print('nothingtochange')
 
